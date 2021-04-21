@@ -1,0 +1,22 @@
+{
+  "name": "CWQABC",
+  "version": "0.1.0",
+  "summary": "A short description of CWQABC.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/chenaqi/CWQABC",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "chenaqi": "@wuqi.chen@zhangmen.com"
+  },
+  "source": {
+    "git": "https://github.com/chenaqi/CWQABC.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "CWQABC/Classes/**/*"
+}

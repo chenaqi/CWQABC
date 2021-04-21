@@ -1,0 +1,6 @@
+framework module CWQABC {
+  umbrella header "CWQABC-umbrella.h"
+
+  export *
+  module * { export * }
+}

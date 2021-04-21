@@ -1,0 +1,27 @@
+PODS:
+  - CWQABC (0.1.0)
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+
+DEPENDENCIES:
+  - CWQABC (from `../`)
+  - FBSnapshotTestCase
+
+SPEC REPOS:
+  trunk:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  CWQABC:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CWQABC: 44cd557d298000ed37ab35c891ad198c355d05a8
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+
+PODFILE CHECKSUM: 2d97c9a495ac7c62940bba5c3fc065338f042d3d
+
+COCOAPODS: 1.10.1

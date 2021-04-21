@@ -1,0 +1,6 @@
+framework module Pods_CWQABC_Example {
+  umbrella header "Pods-CWQABC_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
