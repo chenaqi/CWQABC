@@ -8,8 +8,10 @@
 
 Pod::Spec.new do |s|
   s.name             = 'CWQABC'
-  s.version          = '0.1.0'
-  s.summary          = 'A short description of CWQABC.'
+  s.version          = '0.1.1'
+  s.summary          = 'help person manager dogs,
+                        person has dogs
+                        dog belong person'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -18,7 +20,12 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+                        wo shi xiang bang 
+                        help person manager dogs,
+                        person has dogs
+                        dog belong person
+                        测试如何使用cocoapods
+                        这个提示太短了，所以多写一些
                        DESC
 
   s.homepage         = 'https://github.com/chenaqi/CWQABC'
@@ -37,6 +44,6 @@ TODO: Add long description of the pod here.
   # }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'
-  # s.frameworks = 'UIKit', 'MapKit'
-  # s.dependency 'AFNetworking', '~> 2.3'
+  s.frameworks = 'UIKit'
+  s.dependency 'AFNetworking', '~> 2.3'
 end
